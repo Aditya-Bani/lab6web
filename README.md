@@ -74,13 +74,12 @@ Buat body konten untuk yg kedua, dan masih menggunakan card
 ### 7. Footer 
 bagian akhir tambahkan footer.
 
-![img2!](assets/img/13.PNG)
-
 ![img2!](assets/img/14.PNG)
 
 ![img2!](assets/img/15.PNG)
 
+![img2!](assets/img/16.PNG)
+
 ## Tampilan full
 
-![img2!](assets/img/16.PNG)
-![img2!](assets/img/17.png)
+![img2!](assets/img/17.PNG)
